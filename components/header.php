@@ -71,34 +71,7 @@ if (isset($_POST['DYLM'])) {
     </script>
 </head>
 <body>
-<style>
-footer{backdrop-filter: blur(2px)!important;background: rgba(50, 50,50,0.3)!important;}
-#header{background: rgba(60, 60,60,0.7)!important;}
-.article-item{background: rgba(250,250,250,0.6)!important;backdrop-filter: blur(6px)!important;}
-.sliderbar-content{background: rgba(250,250,250,0.6)!important;backdrop-filter: blur(6px)!important;}
-.profile-content i{opacity: 0!important;}
-#widgets .widget{background: rgba(250,250,250,0.6)!important;backdrop-filter: blur(6px)!important;}
-img{width: 100%;height: 100%;object-fit: cover;border-radius:30px!important;}
-#post{background: rgba(250,250,250,0.4)!important;}
-#post-banner{background: rgba(250,250,250,0)!important;}
-#comments-textarea{background:url(https://mc.rslist.cf/get/@:icey.cf?theme=gelbooru-h);background-size: contain;background-repeat: no-repeat;background-position:center;background-color:rgba(255,255,255,0);backdrop-filter: blur(6px)!important;border-radius:30px!important;}
-#comment-submit{background: rgba(250,250,250,0)!important;}
-#comments-form{background: rgba(250,250,250,0.5)!important;}
-#comments-textarea-wrap{background: rgba(250,250,250,0.3)!important;border-radius:30px!important;}
-.comment-content{background: rgba(250,250,250,0.4)!important;backdrop-filter: blur(6px)!important;}
-.post-toolbar-btn{background: rgba(250,250,250,0)!important;}
-#page{background: rgba(250,250,250,0.4)!important;backdrop-filter: blur(6px)!important;}
-#page-banner{background: rgba(250,250,250,0)!important;backdrop-filter: blur(6px)!important;}
-.text{background: rgba(250,250,250,0.3)!important;backdrop-filter: blur(6px)!important;border-radius:20px!important;}
-#OwO-container{background: rgba(250,250,250,0.4)!important;backdrop-filter: blur(6px)!important;}
-.article-banner {opacity:0.8!important;}
-.card-item article{background: rgba(50, 50,50,0.3)!important;backdrop-filter: blur(6px)!important;}
-.card-cover{opacity:0.7!important;}
-.PAP-banner div{opacity:0.7!important;}
-.PAP-content>* {max-width: none;}
-a.next {opacity: 0.5 !important;backdrop-filter: blur(6px)!important;}
-a.prev {opacity: 0.5 !important;backdrop-filter: blur(6px)!important;}
-</style>
+
 <div id="main">
     <header id="header">
         <div id="header-title">
